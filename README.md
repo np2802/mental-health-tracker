@@ -6,4 +6,4 @@ _The project focuses on building a mental health tracker. We will try to get an 
 **1.NISHTHA PANDEY**<br />
 **2.KEISHA GUPTE**<br />
 **3.MANALI MALAVADE**<br />
-**4.MISHA GANZAFAR**<br />
+**4.MISHA AZMI**<br />
